@@ -203,8 +203,8 @@ AndroidManifest.xml
 
 <img width="1919" height="1016" alt="Screenshot 2025-09-22 194509" src="https://github.com/user-attachments/assets/68c16695-09ba-40aa-8592-b424bba57c66" />
 
+<img width="1919" height="1012" alt="EDIT" src="https://github.com/user-attachments/assets/58970285-be81-4b84-840a-21265da21a98" />
 
-<img width="1919" height="1016" alt="Screenshot 2025-09-22 194509" src="https://github.com/user-attachments/assets/2bb31359-c285-4a94-a610-27a5d94854ef" />
 
 
 
